@@ -1,5 +1,5 @@
 <template>
-  <div class="relative" id="home">
+  <div class="relative" id="herosection">
     <Container>
     <div aria-hidden="true" class="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20">
       <div class="blur-[106px] h-56 bg-gradient-to-br from-primary to-purple-400 dark:from-blue-700"></div>
@@ -7,11 +7,11 @@
     </div>
       <div class="relative pt-36 ml-auto">
         <div class="lg:w-2/3 text-center mx-auto">
-          <h1 class="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl">Shaping a world with <span
-              class="text-primary dark:text-white">reimagination.</span></h1>
-          <p class="mt-8 text-gray-700 dark:text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
-            incidunt nam itaque sed eius modi error totam sit illum. Voluptas doloribus asperiores quaerat aperiam. Quidem
-            harum omnis beatae ipsum soluta!</p>
+          <h1 class="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl">In 2016 I put a personal heart project  <span
+              class="text-primary dark:text-white">into action</span></h1>
+          <p class="mt-8 text-gray-700 dark:text-gray-300">
+              I used a sabbatical in Berlin for the development of the iOS/Android/Web app "awwcute" on a Cordova/Google Cloud basis. This project allowed me to demonstrate my skills in the areas of mobile development, cloud computing, and project management. Back in Austria, I have successfully used my expertise in several professional projects.
+          </p>
           <div class="mt-16 flex flex-wrap justify-center gap-y-4 gap-x-6">
             <a href="#"
               class="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-primary before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max">

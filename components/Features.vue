@@ -7,10 +7,9 @@
       </svg>
       
       <h2 class="my-8 text-2xl font-bold text-gray-700 dark:text-white md:text-4xl">
-        A technology-first approach to payments
-        and finance
+        A solution-oriented approach!
       </h2>
-      <p class="text-gray-600 dark:text-gray-300">Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus ad ipsum pariatur autem, fugit laborum in atque amet obcaecati? Nisi minima aspernatur, quidem nulla cupiditate nam consequatur eligendi magni adipisci.</p>
+      <p class="text-gray-600 dark:text-gray-300">My diverse interests, my enthusiasm for learning, and my attention to detail distinguish me as a software developer. My high level of self-motivation enables me to work independently, set priorities, and meet deadlines. I am used to taking initiative, making decisions, and approaching problems in a solution-oriented manner.</p>
     </div>
     <div
       class="mt-16 grid divide-x divide-y divide-gray-100 dark:divide-gray-700 overflow-hidden rounded-3xl border border-gray-100 text-gray-600 dark:border-gray-700 sm:grid-cols-2 lg:grid-cols-4 lg:divide-y-0 xl:grid-cols-4"

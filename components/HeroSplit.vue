@@ -9,13 +9,10 @@
       </div>
       <div class="md:7/12 lg:w-1/2">
         <h2 class="text-3xl font-bold text-gray-900 md:text-4xl dark:text-white">
-          Nuxt development is carried out by passionate developers
+          I have been passionately programming since I was 12 years old
         </h2>
         <p class="my-8 text-gray-600 dark:text-gray-300">
-          Nobis minus voluptatibus pariatur dignissimos libero quaerat iure expedita at?
-          Asperiores nemo possimus nesciunt dicta veniam aspernatur quam mollitia. <br> <br> Vitae error, quaerat officia
-          delectus voluptatibus explicabo quo pariatur impedit, at reprehenderit aliquam a ipsum quas voluptatem. Quo
-          pariatur asperiores eum amet.
+ I have independently and motivatedly learned various programming languages. I have always kept myself up-to-date and worked on new projects to deepen my skills and get to know new technologies.
         </p>
         <div class="divide-y space-y-4 divide-gray-100 dark:divide-gray-800">
           <div class="mt-8 flex gap-4 md:items-center">
