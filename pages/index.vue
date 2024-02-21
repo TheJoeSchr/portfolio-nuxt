@@ -5,6 +5,7 @@ const route = useRoute()
 </script>
 
 <template>
+  <HeroSplit/>
   <HeroSection/>
   <Features/>
 </template>

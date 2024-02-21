@@ -23,4 +23,94 @@ import { SpeedInsights } from "@vercel/speed-insights/nuxt"
 </script>
 <style>
 @import url("primeicons/primeicons.css");
+
+.gochi-hand-regular {
+  font-family: "Gochi Hand", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.spectral-extralight {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.spectral-extralight-italic {
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.spectral-light {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.spectral-light-italic {
+  font-family: "Spectral", serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.spectral-regular {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.spectral-regular-italic {
+  font-family: "Spectral", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.spectral-medium {
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.spectral-medium-italic {
+  font-family: "Spectral", serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.spectral-semibold {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.spectral-semibold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+.spectral-bold {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.spectral-bold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.spectral-extrabold {
+  font-family: "Spectral", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.spectral-extrabold-italic {
+  font-family: "Spectral", serif;
+  font-weight: 800;
+  font-style: italic;
+}
 </style >

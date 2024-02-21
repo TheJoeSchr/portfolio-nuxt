@@ -2,7 +2,7 @@
 import path from 'path';
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ["@vueuse/nuxt", "@pinia/nuxt", "@nuxtjs/tailwindcss", "nuxt-primevue"],
+  modules: ["@vueuse/nuxt", "@pinia/nuxt", "@nuxtjs/tailwindcss", "nuxt-primevue", "@nuxtjs/google-fonts", "@nuxt/image",],
   primevue: {
     options: { unstyled: true, },
     importPT: { as: 'Lara', from: path.resolve(__dirname, './presets/lara/') }      //import and apply preset   
@@ -49,5 +49,11 @@ export default defineNuxtConfig({
         },
       },
     },
+  },
+  googleFonts: {
+    families: {
+      "Gochi Hand": true,
+      "Spectral": true,
+    }
   }
 })
