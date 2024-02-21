@@ -1,16 +1,19 @@
 <template>
   <div class="relative" id="herosection">
     <Container>
-    <div aria-hidden="true" class="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20">
-      <div class="blur-[106px] h-56 bg-gradient-to-br from-primary to-purple-400 dark:from-blue-700"></div>
-      <div class="blur-[106px] h-32 bg-gradient-to-r from-cyan-400 to-sky-300 dark:to-indigo-600"></div>
-    </div>
+      <div aria-hidden="true" class="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20">
+        <div class="blur-[106px] h-56 bg-gradient-to-br from-primary to-purple-400 dark:from-blue-700"></div>
+        <div class="blur-[106px] h-32 bg-gradient-to-r from-cyan-400 to-sky-300 dark:to-indigo-600"></div>
+      </div>
       <div class="relative pt-36 ml-auto">
         <div class="lg:w-2/3 text-center mx-auto">
-          <h1 class="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl">In 2016 I put a personal heart project  <span
-              class="text-primary dark:text-white">into action</span></h1>
+          <h1 class="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl">In 2016 I put a personal
+            heart project <span class="text-primary dark:text-white">into action</span></h1>
           <p class="mt-8 text-gray-700 dark:text-gray-300">
-              I used a sabbatical in Berlin for the development of the iOS/Android/Web app "awwcute" on a Cordova/Google Cloud basis. This project allowed me to demonstrate my skills in the areas of mobile development, cloud computing, and project management. Back in Austria, I have successfully used my expertise in several professional projects.
+            I used a sabbatical in Berlin for the development of the iOS/Android/Web app "awwcute" on a Cordova/Google
+            Cloud basis. This project allowed me to demonstrate my skills in the areas of mobile development, cloud
+            computing, and project management. Back in Austria, I have successfully used my expertise in several
+            professional projects.
           </p>
           <div class="mt-16 flex flex-wrap justify-center gap-y-4 gap-x-6">
             <a href="#"
