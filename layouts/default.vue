@@ -15,8 +15,12 @@
         <span class="text-sm font-semibold tracking-wide text-yellow-900 dark:text-white"> Upgrade to Premium</span>
       </a>
     </div>
+    <SpeedInsights />
   </div>
 </template>
+<script setup>
+import { SpeedInsights } from "@vercel/speed-insights/nuxt"
+</script>
 <style>
 @import url("primeicons/primeicons.css");
-</style>
+</style >
