@@ -1,6 +1,6 @@
 <template>
-    <div class="card flex justify-content-center text-black">
-      <Button class="text-red-400 dark:text-white" type="button" icon="pi pi-bars" @click="toggle" aria-haspopup="true" aria-controls="overlay_menu" />
+    <div id="hamburger" class="card flex justify-content-center">
+      <Button class="text-black-important dark:text-white" type="button" icon="pi pi-bars" @click="toggle" aria-haspopup="true" aria-controls="overlay_menu" />
         <Menu ref="menu" id="overlay_menu" :model="items" :popup="true" />
     </div>
 </template>
@@ -29,3 +29,8 @@ const toggle = (event) => {
     menu.value.toggle(event);
 };
 </script>
+<style>
+.text-black-important {
+    color: #000 !important;
+}
+</style>
