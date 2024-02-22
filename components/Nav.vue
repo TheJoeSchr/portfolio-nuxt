@@ -27,36 +27,7 @@
 <style>
 </style>
 <script setup>
-import { ref } from "vue";
-
-const items = ref([
-    {
-        label: 'Router',
-        icon: 'pi pi-palette',
-        items: [
-            {
-                label: 'Styled',
-                route: '/theming'
-            },
-            {
-                label: 'Unstyled',
-                route: '/unstyled'
-            }
-        ]
-    },
-    {
-        label: 'External',
-        icon: 'pi pi-home',
-        items: [
-            {
-                label: 'Vue.js',
-                url: 'https://vuejs.org/'
-            },
-            {
-                label: 'Vite.js',
-                url: 'https://vuejs.org/'
-            }
-        ]
-    }
-]);
+const { items } = useMenuItems()
+console.log("items")
+console.log(items)
 </script>

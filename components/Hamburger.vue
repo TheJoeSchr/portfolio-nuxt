@@ -9,21 +9,7 @@
 import { ref } from "vue";
 
 const menu = ref();
-const items = ref([
-    {
-        label: 'Options',
-        items: [
-            {
-                label: 'Refresh',
-                icon: 'pi pi-refresh'
-            },
-            {
-                label: 'Export',
-                icon: 'pi pi-upload'
-            }
-        ]
-    }
-]);
+const { items } = useMenuItems();
 
 const toggle = (event) => {
     menu.value.toggle(event);
