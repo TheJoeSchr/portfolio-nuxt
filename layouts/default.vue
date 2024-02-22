@@ -22,6 +22,7 @@
 import { SpeedInsights } from "@vercel/speed-insights/nuxt";
 </script>
 <style>
+@import url("~/assets/css/main.css");
 @import url("primeicons/primeicons.css");
 
 .gochi-hand-regular {
