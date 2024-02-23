@@ -21,7 +21,7 @@
               Ambulanz Clearing
             </h3>
             <p class="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-              <div>Documentation Management "Clearing"</div><br/> 
+              Documentation Management "Clearing"<br/> <br/> 
 
               <b>Fullstack Developer</b><br/>
               Typescript, Graphql/apollo, Vue<br/>
@@ -50,7 +50,7 @@
               Ergo Prototype
             </h3>
             <p class="mt-6 mb-8 text-gray-600 dark:text-gray-300">
-                <div>FH Krems, Occupational Therapy Degree Program</div><br/>
+                FH Krems, Occupational Therapy Degree Program<br/><br/> 
                 UI Prototype<br/>
                 <b>Frontend Developer</b><br/>
                 Quasar, Vue 2.0 with composition api<br/>
