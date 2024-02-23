@@ -1,12 +1,9 @@
 
 <template>
-  <div id="herosplit">
+  <div id="herosplit" class="pt-36">
     <Container>
       <div
-        class="pt-36 space-y-6 justify-between text-gray-600 md:flex flex-row-reverse md:gap-6 md:space-y-0 lg:gap-12 lg:items-center">
-        <div class="md:5/12 lg:w-1/2">
-          <NuxtImg src="/portrait-bw.jpg" alt="image" loading="lazy" width="" height="" class="w-full" />
-        </div>
+        class="space-y-6 justify-between text-gray-600 md:flex flex-row-reverse md:gap-6 md:space-y-0 lg:gap-12 lg:items-center">
         <div class="md:7/12 lg:w-1/2">
           <h2 class="text-3xl font-bold text-gray-900 md:text-4xl dark:text-white">
             I have been passionately programming since I was 12 years old
@@ -45,6 +42,9 @@
               </div>
             </div>
           </div>
+        </div>
+        <div class="md:5/12 lg:w-1/2">
+          <NuxtImg src="/portrait-bw.jpg" alt="image" loading="lazy" width="" height="" class="w-full" />
         </div>
       </div>
     </Container>

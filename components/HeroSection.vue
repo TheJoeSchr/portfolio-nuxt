@@ -12,19 +12,15 @@
           <p class="raleway-regular mt-8 text-gray-700 dark:text-gray-300">
             I used a sabbatical in Berlin for the development of the iOS/Android/Web app "awwcute" on a Cordova/Google
             Cloud basis. This project allowed me to demonstrate my skills in the areas of mobile development, cloud
-            computing, and project management. Back in Austria, I have successfully used my expertise in several
-            professional projects.
+            computing, and project management.
           </p>
           <div class="mt-16 flex flex-wrap justify-center gap-y-4 gap-x-6">
-            <a href="#"
-              class="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:border before:border-transparent before:bg-primary/10 before:bg-gradient-to-b before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 dark:before:border-gray-700 dark:before:bg-gray-800 sm:w-max">
-              <span class="relative text-base font-semibold text-primary dark:text-white">Get started</span>
-            </a>
-            <a href="#"
+            <a href="https://awwcutehp.appspot.com/" target="_blank"
               class="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:border before:border-transparent before:bg-primary/10 before:bg-gradient-to-b before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 dark:before:border-gray-700 dark:before:bg-gray-800 sm:w-max">
               <span class="relative text-base font-semibold text-primary dark:text-white">Learn more</span>
             </a>
           </div>
+          <!--
           <div class="hidden py-8 mt-16 border-y border-gray-100 dark:border-gray-800 sm:flex justify-between">
             <div class="text-left">
               <h6 class="text-lg font-semibold text-gray-700 dark:text-white">The lowest price</h6>
@@ -39,7 +35,9 @@
               <p class="mt-2 text-gray-500">Some text here</p>
             </div>
           </div>
+            -->
         </div>
       </div>
     </Container>
-</div></template>
+  </div>
+</template>

@@ -4,8 +4,7 @@
       <div class="mb-12 space-y-2 text-center">
         <h2 class="text-3xl font-bold text-gray-800 md:text-4xl dark:text-white">Latest Projects</h2>
         <p class="lg:mx-auto lg:w-6/12 text-gray-600 dark:text-gray-300">
-          Thanks to my experience as a freelancer, I also understand the economic perspective of clients and can
-          effectively respond to the needs of stakeholders.
+            Back in Austria, I have successfully used my expertise in several professional projects.
         </p>
       </div>
       <div class="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
@@ -61,7 +60,7 @@
           </div>
           <div class="mt-6 relative">
             <h3 class="text-2xl font-semibold text-gray-800 dark:text-white">
-              Sprachraum
+              De fuga fugiat lorem ispum laboriosam expedita.
             </h3>
             <p class="mt-6 mb-8 text-gray-600 dark:text-gray-300">
               Voluptates harum aliquam totam, doloribus eum impedit atque! Temporibus...
