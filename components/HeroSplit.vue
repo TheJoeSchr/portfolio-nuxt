@@ -23,8 +23,10 @@
                 </svg>
               </div>
               <div class="w-5/6">
+                <a href="mailto:hello@joeschroecker.com">
                 <h3 class="font-semibold text-lg text-gray-700 dark:text-indigo-300">Chat Anytime</h3>
-                <p class="text-gray-500 dark:text-gray-400">Asperiores nemo possimus nesciunt quam mollitia.</p>
+                <p class="text-gray-500 dark:text-gray-400">or just say hello!</p>
+                </a>
               </div>
             </div>
             <div class="pt-4 flex gap-4 md:items-center">
@@ -37,14 +39,14 @@
                 </svg>
               </div>
               <div class="w-5/6">
-                <h3 class="font-semibold text-lg text-gray-700 dark:text-teal-300">Real Time Location</h3>
-                <p class="text-gray-500 dark:text-gray-400">Asperiores nemo possimus nesciunt quam mollitia.</p>
+                <h3 class="font-semibold text-lg text-gray-700 dark:text-teal-300">Currently based in</h3>
+                <p class="text-gray-500 dark:text-gray-400">Vienna, Austria</p>
               </div>
             </div>
           </div>
         </div>
         <div class="md:5/12 lg:w-1/2">
-          <NuxtImg src="/portrait-bw.jpg" alt="image" loading="lazy" width="" height="" class="w-full" />
+          <NuxtImg src="/ai/light.png" alt="image" loading="lazy" width="" height="" class="w-full" />
         </div>
       </div>
     </Container>
