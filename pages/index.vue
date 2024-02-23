@@ -1,6 +1,7 @@
 <template>
   <HeroSplit id="home"/>
-  <HeroSection />
   <Features />
+  <HeroSection />
+  <Projects />
 </template>
 

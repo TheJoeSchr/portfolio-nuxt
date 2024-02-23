@@ -54,6 +54,7 @@ export default defineNuxtConfig({
     families: {
       "Gochi Hand": true,
       "Spectral": true,
+      "Protest Revolution": true,
     }
   }
 })

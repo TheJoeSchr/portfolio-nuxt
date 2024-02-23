@@ -9,7 +9,7 @@
         <div class="lg:w-2/3 text-center mx-auto">
           <h1 class="text-gray-900 dark:text-white font-bold text-5xl md:text-6xl xl:text-7xl">In 2016 I put a personal
             heart project <span class="text-primary dark:text-white">into action</span></h1>
-          <p class="mt-8 text-gray-700 dark:text-gray-300">
+          <p class="raleway-regular mt-8 text-gray-700 dark:text-gray-300">
             I used a sabbatical in Berlin for the development of the iOS/Android/Web app "awwcute" on a Cordova/Google
             Cloud basis. This project allowed me to demonstrate my skills in the areas of mobile development, cloud
             computing, and project management. Back in Austria, I have successfully used my expertise in several

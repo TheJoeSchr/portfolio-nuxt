@@ -25,6 +25,19 @@ import { SpeedInsights } from "@vercel/speed-insights/nuxt";
 @import url("~/assets/css/main.css");
 @import url("primeicons/primeicons.css");
 
+.raleway-regular {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.protest-revolution-regular {
+  font-family: "Protest Revolution", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .gochi-hand-regular {
   font-family: "Gochi Hand", cursive;
   font-weight: 400;
