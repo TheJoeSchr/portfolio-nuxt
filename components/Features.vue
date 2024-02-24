@@ -4,7 +4,7 @@
       <div
         class="space-y-6 justify-between text-gray-600 md:flex flex-row-reverse md:gap-6 md:space-y-0 lg:gap-12 lg:items-center">
         <div class="md:5/12 lg:w-1/2">
-          <NuxtImg src="/ai/thinking.png" alt="image" loading="lazy" width="" height="" class="w-full" />
+          <NuxtImg src="/ai/brick-confident.png" alt="image" loading="lazy" width="" height="" class="w-full" />
         </div>
         <div class="md:7/12 lg:w-1/2">
           <h2 class="my-8 text-2xl font-bold text-gray-700 dark:text-white md:text-4xl">
